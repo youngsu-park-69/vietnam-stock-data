@@ -1,1 +1,6 @@
+symbol,name,name_vn,exchange,sector,industry,market_cap_class,market_cap_vnd,market_cap_usd,listing_date,outstanding_shares,free_float,is_vn30,is_vn100,is_dividend_stock,avg_volume_3m,beta,pe_ratio,pb_ratio,roe,revenue_usd_mil,employees,headquarters,website,established_year,isin,tags
+VCB,Vietcombank,Ngân hàng TMCP Ngoại thương Việt Nam,HOSE,Banking,Commercial Banking,LARGE,509720000000000,20388,2009-07-20,3459182969,85.2,TRUE,TRUE,TRUE,2500000,0.85,9.2,1.8,19.5,4820,23500,Ho Chi Minh City,www.vietcombank.com.vn,1963,VN000000VCB8,"State-owned,Largest Bank,Blue-chip"
+BID,BIDV,Ngân hàng TMCP Đầu tư và Phát triển VN,HOSE,Banking,Commercial Banking,LARGE,259000000000000,10360,2009-09-01,3826646181,82.7,TRUE,TRUE,TRUE,1800000,0.92,7.8,1.1,14.2,3940,19800,Hanoi,www.bidv.com.vn,1957,VN000000BID0,"State-owned,Second largest bank"
+...
+(1,636개 더 - 전체 리스트 제공 가능)
 
