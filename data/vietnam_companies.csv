@@ -1,4 +1,4 @@
-id,symbol,name,Sector 1,Sector 2,Sector 3,Exchange,listing_date,ListingShares
+id,symbol,name,Sector1,Sector2,Sector3,Exchange,listing_date,Listing_Shares
 1,A32,32 Joint Stock Company,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods",UPCoM,10/23/2018,"6,800,000"
 2,AAA,An Phat Bioplastics Joint Stock Company,Materials,Materials,Chemicals,HOSE,11/25/2016,"382,274,496"
 3,AAH,Continued Joint Stock Company,Energy,Energy,"Oil, Gas & Consumable Fuels",UPCoM,01/11/2024,"117,900,000"
